@@ -5,5 +5,3 @@ They will also get to see another user's thought at random when they refresh the
 
 It features jQuery which binds the onchange to a textarea where the user can type their thoughts and uses AJAX to call a PHP
 script that automatically updates the database as the user is changing the text area.
-
-This project was done without OOP or functions but the next project I am aiming to do it with OOP and then eventually learn the php framework: Laravel.
